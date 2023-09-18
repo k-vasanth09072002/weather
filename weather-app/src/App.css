@@ -1,0 +1,46 @@
+.App{
+  background-color: white;
+  box-shadow: 3px 4px 5px 6px gray;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  align-items: center;
+}
+.title{
+  text-align: center;
+}
+.input-container{
+  text-align: center;
+}
+.input-container input{
+  height: 35px;
+  width: 35%;
+  border-radius: 3px;
+  border: none;
+}
+.button{
+  height: 35px;
+  width: 15%;
+  background-color: chartreuse;
+  border: none;
+  border-radius: 2px;
+  
+}
+.container{
+  margin: auto;
+  box-shadow: 3px 4px 5px 6px gray;
+  background-color: antiquewhite;
+  width: 450px;
+  height:300px;
+  align-items: center;
+}
+.city-name{
+  text-align: center;
+}
+
+.temp{
+  text-align: center;
+}
+.coordinater{
+  text-align: center;
+}
